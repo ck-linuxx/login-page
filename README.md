@@ -3,12 +3,12 @@
 <hr size="1px" color="gray">
 <p>Depois de clona o projeto de um ```yarn``` na pasta front, na pasta back,
   crie as ```migrations``` do prisma com o comando ```yarn prisma migrate dev --name init```,
-  na parte do nome, você pode dar qualquer nome, mas eu deixei como um simples <strong>init</strong>
+  na parte do nome, você pode dar qualquer nome, mas eu deixei como um simples <strong>init</strong>,
   de o comando ```docker up``` é um ```docker-compose up```,
 </p>
 <hr size="1px" color="gray">
 <h3>Dê uma espiada no projeto</h3>
-<p>Obs. fiz essa página com o conceito desktop first</p>
+<p>Obs. fiz essa página com o conceito desktop first, é ainda tem que fazer a ligação do back com o front</p>
 <br/>
 <img src="./homeDesktop.png" alt="versão desktop" />
 <br/>
