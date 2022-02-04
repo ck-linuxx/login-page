@@ -7,7 +7,7 @@
   de o comando ```docker up``` é um ```docker-compose up```,
 </p>
 <hr size="1px" color="gray">
-<h3>Dê umA espiada no projeto</h3>
+<h3>Dê uma espiada no projeto</h3>
 <p>Obs. fiz essa página com o conceito desktop first</p>
 <br/>
 <img src="./homeDesktop.png" alt="versão desktop" />
